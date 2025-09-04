@@ -9,4 +9,4 @@ cat > README.md << 'EOF'
     npx playwright test
     npx playwright test --headed
     npx playwright show-report
-    EOF
+    EOF 
